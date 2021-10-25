@@ -11,7 +11,7 @@
 
 <h2 align="center">
   
-![Design sem nome2](https://user-images.githubusercontent.com/29720117/138705117-5155cb19-0385-417e-897c-2b06935f0646.png)
+![Design sem nome1](https://user-images.githubusercontent.com/29720117/138707890-b7e32408-d8ea-406b-937f-c3bba3fd77c6.png)
   
   
   <h2>:computer: Projeto:</h2>
