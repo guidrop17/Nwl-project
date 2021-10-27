@@ -41,6 +41,6 @@
   
   <h2>:paintbrush: Layout:</h2>
   
-  <p> Para ver o layout acesse <a href="https://www.figma.com/file/pZmKmpjNNSPLQAauyIETbO/%5BNLW-Heat---Mission%3A-Origin%5D-DoWhile2021-(Community)?node-id=0%3A1">esse link</a>.
+  <p> Para ver o layout acesse <a href="https://www.figma.com/file/pZmKmpjNNSPLQAauyIETbO/%5BNLW-Heat---Mission%3A-Origin%5D-DoWhile2021-(Community)?node-id=0%3A1">esse link</a> , e para ver o site <a href="https://cracha.netlify.app/">clique aqui.</a> </p>
   
   
